@@ -1,3 +1,4 @@
+![logo](https://github.com/shreyaslax/shreyaslax/blob/main/Github_banner.png) 
 <h1 align="center">Hi 👋, I'm Shreyas Lakshman Swamy</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
