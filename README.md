@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaslax&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaslax" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://elegant-quokka-a3cb5c.netlify.app](https://elegant-quokka-a3cb5c.netlify.app)
-
 - 📫 How to reach me **shreyasl2515@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hjtwNLzipunB35g5EtknXLYcpcCz4S25/view](https://drive.google.com/file/d/1hjtwNLzipunB35g5EtknXLYcpcCz4S25/view)
