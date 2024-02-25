@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/shreyaslax/shreyaslax/blob/main/Github_banner.png" alt="Logo" style="width: 800px;">
-</p>
+
 <h1 align="center">Hi 👋, I'm Shreyas Lakshman Swamy</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
