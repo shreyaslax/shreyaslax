@@ -10,7 +10,7 @@ I am currently building open source versions of software that I find interesting
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaslax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shreyaslax&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![]([https://github-profile-trophy.vercel.app/?username=shreyaslax&theme=radical&no-frame=false&no-bg=false&margin-w=4](https://github.com/shreyaslax?achievement=quickdraw&tab=achievements)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
